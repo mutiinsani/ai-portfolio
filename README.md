@@ -35,5 +35,4 @@ pip install -r requirements.txt
 ## Environment
 
 - Python 3.14.4
-- Local LLMs via Ollama (no API keys needed)
-- See `dev-environment-setup.md` for full setup guide
+- Local LLMs via Ollama 
