@@ -1,0 +1,8 @@
+LangChain is an open-source framework designed to simplify the creation of applications using large language models.
+RAG stands for Retrieval Augmented Generation. It is a technique that grounds LLM responses in external documents to reduce hallucination.
+Ollama is a tool that allows developers to run large language models locally on their own hardware without needing cloud APIs.
+A vector store is a database that stores embeddings — numerical representations of text — and enables fast similarity search.
+FAISS is a library developed by Meta for efficient similarity search and clustering of dense vectors.
+An embedding is a numerical representation of text in high-dimensional space where semantically similar texts are close together.
+A prompt template is a reusable structure that formats inputs before sending them to a language model.
+Hallucination in AI refers to when a language model generates confident but factually incorrect information.
